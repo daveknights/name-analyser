@@ -1,4 +1,4 @@
-# name-analyser
+# name-analyser (Python 2)
 R & D exercise using the Python language.
 This is a very simple class which performs some actions on a name recieved via input.
 It then prints:
